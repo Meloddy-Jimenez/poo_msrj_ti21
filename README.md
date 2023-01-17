@@ -1,2 +1,7 @@
-# poo_msrj_ti21
-Repositorio para almacenar las prácticas de la materia de la materia Programación Orientada a Objetos
+# Curso de Programación Orientada a Objetos
+
+##Índice
+
+|No.|Archivo|Descripción|
+|--|--|--|
+|1.|Programa0.py|Hola mundo en python|

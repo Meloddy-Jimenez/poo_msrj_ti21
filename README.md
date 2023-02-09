@@ -12,3 +12,4 @@
 |6.|programa5.py|operaciones basicas utilizando int|
 |10.|programa10.py|Multiples formas de realizar una aplicacion que lea dos numeros enteros, los compare, y muestre el numero mayor|
 |11.|programa11.py|Se crearan 8 pruebas utilizando "mayor" para probar que los codigos sean funcionales codigo1|
+|12.|programa11.py|Se crearan 8 pruebas utilizando "mayor" para probar que los codigos sean funcionales codigo2|

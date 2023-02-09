@@ -10,3 +10,4 @@
 |4.|programa3.py|Operaciones aritmeticas 
 |5.|programa4.py|Acceso a las variables por posicion y nombre|
 |6.|programa5.py|operaciones basicas utilizando int|
+|7.|programa10.py|Multiples formas de realizar una aplicacion que lea dos numeros enteros, los compare, y muestre el numero mayor|

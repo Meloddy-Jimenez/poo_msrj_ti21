@@ -7,7 +7,7 @@
 n1 = int(input("Numero1")) 
 n2 = int(input("Numero2"))
 
-#
+#forma1
 if n1 > n2:
   print(n1)
 if n2 > n1:
@@ -75,10 +75,19 @@ if n1 <= n2:
       print (None)
 else:
   print (n2)
+else:
+  print (n1)
 
-else 
-print (n1)
 
+#forma 9
+def mayor(n1, n2):
+  if n1>=n2:
+    if n1 == n2
+        print(None)
+  else:
+    print(n1)
+else:
+    print(n2)
 
   
 

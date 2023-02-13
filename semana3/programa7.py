@@ -1,7 +1,7 @@
 """Programa7
    Nombre: Meloddy Sofia R,J
    Fecha: 31/01/2023
-   Descripción: Calcular e imprimir el area y perimetro de un cuadrado 
+   Descripción: Calcular e imprimir el area y perimetro de un cuadrado y un circulo
 
 """
 print ("calcular el area y el perimetro de un circulo") 

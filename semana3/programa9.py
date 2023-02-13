@@ -7,7 +7,7 @@
 if a > b:
         print("El número mayor es:", a)
         print("El número mayor es:", b)
-    else:
+    else
         print("None")
 
 num1 = int(input("Introduce el primer número entero: "))

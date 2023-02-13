@@ -1,4 +1,4 @@
-"""Programa11
+"""Programa12
    Nombre: Meloddy Sofia R,J
    Fecha: 09/02/2023
    Descripción: Se crearan 8 pruebas utilizando "mayor" para probar que los codigos sean funcionales codigo2
